@@ -1,3 +1,41 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>create a landing page website</title>
+</head>
+<body>
+
+    <section>
+        <div>
+            <nav>
+                <h1>Intern crowd</h1>
+                <ul>
+                    <li><a href="" class="active">Home</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Services</a></li>
+                    <li><a href="">Project</a></li>
+                    <li><a href="">Contact</a></li>
+
+                 </ul> 
+            </nav>
+            <div class="container">
+                <h1>Web Development Website</h1>
+                <p><h3>Intern Crowd Is An Online Coding Platform that Offers Specially Programming Courses For Students. You've Probably Heard About How Programming Shines With New Technology. We Have To Be Aware Of How Programming Can Initiate New Innovations. What's A Better Approach For Our Students Is To Grasp And Adapt To The Technology</h3>
+            <p>
+                You've Probably Heard About How Programming Shines With New Technology. We Have to Be Aware Of How Programming Can Initiate New Innovations. What's A Better Approach For Our Students Is to Grasp And Adapt To The Technology Around </p>
+            </p>
+                <a href="" class="btn">Register now</a>
+
+            </div>
+
+        </div>
+    </section>
+    
+</body>
+</html>
 import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
 *{
     margin:0px;
